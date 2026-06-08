@@ -1,0 +1,7 @@
+interface:
+  display_name: "ComfyUI Workflow Builder"
+  short_description: "Build valid ComfyUI workflow JSON"
+  default_prompt: "Use $comfyui-workflow-builder to build or modify a valid ComfyUI workflow JSON."
+
+policy:
+  allow_implicit_invocation: true
